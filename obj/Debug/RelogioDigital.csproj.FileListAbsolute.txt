@@ -1,0 +1,10 @@
+C:\Users\erosm\source\repos\RelogioDigital\bin\Debug\RelogioDigital.exe.config
+C:\Users\erosm\source\repos\RelogioDigital\bin\Debug\RelogioDigital.exe
+C:\Users\erosm\source\repos\RelogioDigital\bin\Debug\RelogioDigital.pdb
+C:\Users\erosm\source\repos\RelogioDigital\obj\Debug\RelogioDigital.csproj.AssemblyReference.cache
+C:\Users\erosm\source\repos\RelogioDigital\obj\Debug\RelogioDigital.Form1.resources
+C:\Users\erosm\source\repos\RelogioDigital\obj\Debug\RelogioDigital.Properties.Resources.resources
+C:\Users\erosm\source\repos\RelogioDigital\obj\Debug\RelogioDigital.csproj.GenerateResource.cache
+C:\Users\erosm\source\repos\RelogioDigital\obj\Debug\RelogioDigital.csproj.CoreCompileInputs.cache
+C:\Users\erosm\source\repos\RelogioDigital\obj\Debug\RelogioDigital.exe
+C:\Users\erosm\source\repos\RelogioDigital\obj\Debug\RelogioDigital.pdb
